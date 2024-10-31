@@ -12,7 +12,8 @@
 #mysql:8.4
 #xixihahaliu01/qanything-linux:v1.5.1
 #milvusdb/milvus:v2.4.8
+#node:18.19-bullseye-slim
 
-node:18.19-bullseye-slim
+node:18.12.0-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
