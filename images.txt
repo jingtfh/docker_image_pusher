@@ -16,7 +16,9 @@
 #node:18.12.0-slim
 #elasticsearch:7.17.0
 #emqx/emqx:6.2.0-alpha.1
+#python:3.11-slim
 
-python:3.11-slim
+openjdk:23-slim-bullseye
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
