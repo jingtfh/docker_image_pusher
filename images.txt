@@ -18,7 +18,7 @@
 #emqx/emqx:6.2.0-alpha.1
 #python:3.11-slim
 
-openjdk:23-slim-bullseye
+eclipse-temurin:23-jre-alpine
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
