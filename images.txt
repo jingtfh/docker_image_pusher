@@ -17,8 +17,8 @@
 #elasticsearch:7.17.0
 #emqx/emqx:6.2.0-alpha.1
 #python:3.11-slim
+#eclipse-temurin:23-jre-alpine
 
-eclipse-temurin:23-jre-alpine
-
+nacos/nacos-server:v3.0.2
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
